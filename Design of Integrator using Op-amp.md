@@ -41,10 +41,11 @@ We get , R1 =  and hence Rf =
 
 ~~~
 ## CIRCUIT DIAGRAM:
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/7fbefeb9-4810-4a7f-b52a-159ca894b789" />
+<img width="1442" height="1041" alt="image" src="https://github.com/user-attachments/assets/e4bca0ec-bea1-41a9-8f67-ecfa8863475f" />
 
 ## MODEL GRAPH
-<img width="900" height="1100" alt="image" src="https://github.com/user-attachments/assets/be05ae20-5330-494a-b675-ba99e4c1da96" />
+<img width="888" height="1507" alt="image" src="https://github.com/user-attachments/assets/204218eb-b979-4d8b-991b-37942bc80f5c" />
+
 
 ## PROCEDURE:
 
@@ -56,12 +57,14 @@ input voltage is applied to the inverting input terminal of the Op- Amp.
 are plotted in a graph sheet.
 
 ## TABULATION:
-<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/5875fb8d-fb2a-4697-b82a-741b99748afd" />
+<img width="1248" height="968" alt="image" src="https://github.com/user-attachments/assets/4195dcf2-8d6d-4d75-a377-9a42d213c3ec" />
+
 
 ## GRAPH:
-<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/9cff90b1-0009-4436-9899-531598d5d33a" />
+<img width="992" height="1335" alt="image" src="https://github.com/user-attachments/assets/e0f40994-64ea-4581-96b6-ae58054e00f6" />
 
-<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/9e8defb6-cb24-42fa-adf2-9a2ead2d58c7" />
+<img width="1064" height="1302" alt="image" src="https://github.com/user-attachments/assets/18bb7da3-1eee-4eef-b8e6-29d4e9cf014e" />
+
 
 ## RESULT:
 
