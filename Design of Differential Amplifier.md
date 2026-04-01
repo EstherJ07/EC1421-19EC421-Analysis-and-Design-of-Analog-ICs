@@ -21,10 +21,10 @@ an inverting amplifier and it is given as
 <img width="202" height="70" alt="image" src="https://github.com/user-attachments/assets/3cd34e03-1b28-4e8a-90a6-fe0c096c84cc" />
 
 ## CIRCUIT DIAGRAM: 
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/2f198fc8-bc52-430e-86d6-b7590c136624" />
+<img width="1396" height="846" alt="image" src="https://github.com/user-attachments/assets/80590998-05da-47b0-9098-52499adcdcc5" />
 
 ## MODEL GRAPH:
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3cf46e0c-4370-4332-9ae9-3031163d7f87" />
+<img width="1384" height="921" alt="image" src="https://github.com/user-attachments/assets/c30909e3-9d75-4fe3-9f78-586f6625649c" />
 
 
 ## PROCEDURE:  
@@ -44,14 +44,16 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 
 ## TABULATION:
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/bc16d27e-6cb5-4680-a75a-4b47884108f2" />
+<img width="1458" height="1047" alt="image" src="https://github.com/user-attachments/assets/e7343c3c-784c-4e1d-b774-51c2a5897784" />
+
 
 ## CALCULATIONS:
-<img width="800" height="1300" alt="image" src="https://github.com/user-attachments/assets/adf6bef1-e8eb-4339-80c2-2732613c9ae7" />
+<img width="989" height="1600" alt="image" src="https://github.com/user-attachments/assets/a0001830-4c69-4f56-969a-b94c086d83a3" />
 
 
 ## GRAPH:
-<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/1e8c097a-3d01-4650-aa41-735266c74afb" />
+<img width="1080" height="1540" alt="image" src="https://github.com/user-attachments/assets/be75c1d9-8042-472c-a14d-eae9531e596a" />
+
 
 
  ## RESULTS:
