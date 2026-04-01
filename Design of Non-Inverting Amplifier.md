@@ -16,11 +16,13 @@ ACL = 1 + ( RF / R1)
 
 ## CIRCUIT DIAGRAM:
 
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/e1ee23a4-1698-4b89-aa24-b64895ecb29f" />
+<img width="1567" height="1048" alt="image" src="https://github.com/user-attachments/assets/4b9fdd27-a078-4512-aaf0-89c4ff5f41fc" />
+
 
 ## MODEL GRAPH:
 
-<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/4a2655b4-cb65-474f-bd76-9af537536e74" />
+<<img width="1334" height="942" alt="image" src="https://github.com/user-attachments/assets/39e55c10-aba1-4e53-bbb2-6ea0818daa3e" />
+
 
 
 ## PROCEDURE:
@@ -38,11 +40,13 @@ ACL = 1 + ( RF / R1)
 
 ## TABULATION:
 
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/de15281a-6a2e-4ded-a5a8-e2928129d6bf" />
+<img width="1375" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0bab770-4058-45b3-9b21-8072c03e8189" />
+
 
 ## CALCULATIONS:
 
-<img width="500" height="1200" alt="image" src="https://github.com/user-attachments/assets/085f60af-695e-44bc-bee1-7857b0a4ac56" />
+<img width="922" height="1545" alt="image" src="https://github.com/user-attachments/assets/dd0259e1-4aba-4cab-8192-23a3215d5b03" />
+
 
 ## GRAPH:
 
