@@ -19,10 +19,10 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM:
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/8bbf8dd9-8ede-4d6c-a40d-8a93e69e3dc2" />
+<img width="1437" height="1080" alt="image" src="https://github.com/user-attachments/assets/75a1735e-9589-496b-91cf-b8e82d14bbf1" />
 
 ## MODEL GRAPH:
-<img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/10bc4feb-3dbf-43f2-80f9-b387f58f81e1" />
+<img width="778" height="1301" alt="image" src="https://github.com/user-attachments/assets/ef1dd7b5-7f22-44f1-ae1d-1a663236444b" />
 
 
 ## PROCEDURE:
@@ -36,11 +36,13 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 <img width="837" height="443" alt="image" src="https://github.com/user-attachments/assets/fee44ef4-8ae5-4b7a-938e-927c4492992e" />
 
 ## TABULATION:
-<img width="940" height="631" alt="image" src="https://github.com/user-attachments/assets/1993a5f7-3872-450f-8ab2-911eb8c295ee" />
+<img width="1253" height="829" alt="image" src="https://github.com/user-attachments/assets/b8ae9a9f-b064-4d23-bb3e-ac0afa390728" />
+
 
 ## GRAPH:
-<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/d123c734-4e18-471f-90a3-6928d868eaef" />
-<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/e780bd2e-0394-4137-97b8-f00ffff446ff" />
+<img width="1080" height="1329" alt="image" src="https://github.com/user-attachments/assets/aff742db-2bae-4c80-b48c-16fabd3570f0" />
+<img width="1049" height="1347" alt="image" src="https://github.com/user-attachments/assets/9556bf69-e179-48d4-91da-b11e2a860687" />
+
 
 
 ## RESULT:
