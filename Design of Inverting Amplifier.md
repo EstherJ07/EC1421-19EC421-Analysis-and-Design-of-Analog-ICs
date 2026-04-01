@@ -1,4 +1,4 @@
-# EC1421 - 19EC421 - Analysis-and-Design-of-Analog-ICs
+  # EC1421 - 19EC421 - Analysis-and-Design-of-Analog-ICs
 # Design of Inverting Amplifier
 
 ## AIM:
@@ -30,11 +30,12 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## CIRCUIT DIAGRAM:
 
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/42c1269e-5440-42d4-9f82-cbe956226140" />
+<img width="1550" height="841" alt="image" src="https://github.com/user-attachments/assets/cfb21834-9f50-47c2-8b10-ca7922d72192" />
+
 
 ## MODEL GRAPH:
 
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/7a0ed363-8b02-4abf-b185-af2e01c47758" />
+<img width="1417" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8fcf835-dc6d-414a-851c-ff4f7c353e54" />
 
 
 ## PROCEDURE:
@@ -50,15 +51,18 @@ Choose  R1 = 1kΩ, Rf=10kΩ
    
 ## TABULATION:
 
-<img width="940" height="630" alt="image" src="https://github.com/user-attachments/assets/81a43394-7854-4a75-a83d-0d46cfbc36cb" />
+<img width="1282" height="709" alt="image" src="https://github.com/user-attachments/assets/ec808ce7-38ac-4262-8454-a699582f8260" />
+
 
 ## CALCULATIONS:
 
- <img width="600" height="1200" alt="image" src="https://github.com/user-attachments/assets/2d3d170a-94d2-4ad3-9752-cf75f5f69451" />
+<img width="1080" height="1455" alt="image" src="https://github.com/user-attachments/assets/fbf15b45-413a-4285-b104-ccef4ee6d23c" />
+
  
 ## GRAPH:
 
-<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/cd9c5ed1-52b7-4bd4-b745-66b642bb9523" />
+<img width="1024" height="1424" alt="image" src="https://github.com/user-attachments/assets/63997041-f874-4e74-9c1f-34796cbb5700" />
+
 
 
 ## RESULT:
