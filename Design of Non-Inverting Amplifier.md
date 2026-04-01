@@ -50,7 +50,7 @@ ACL = 1 + ( RF / R1)
 
 ## GRAPH:
 
-<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/e6b26137-2408-49a7-a0f7-31398a721105" />
+<img width="1080" height="1424" alt="image" src="https://github.com/user-attachments/assets/74bb578b-84c6-4904-94eb-e76fc7bff533" />
 
 
 ## RESULT:
